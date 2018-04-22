@@ -1,0 +1,26 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Express.JS homework assignment for RCB.  Friend Finder is an app to help match with new potential friends!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGonc189/friend-finder.git"
+  },
+  "author": "Jason M. Goncalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGonc189/friend-finder/issues"
+  },
+  "homepage": "https://github.com/JGonc189/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7"
+  }
+}
